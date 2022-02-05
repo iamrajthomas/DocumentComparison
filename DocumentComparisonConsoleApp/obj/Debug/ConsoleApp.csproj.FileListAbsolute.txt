@@ -1,0 +1,73 @@
+C:\Users\c-rajesh.thomas\Downloads\ASPOSE POC\Document_Comparison_by_Aspose_Words_for_NET-master\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\c-rajesh.thomas\Downloads\ASPOSE POC\Document_Comparison_by_Aspose_Words_for_NET-master\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\c-rajesh.thomas\Downloads\ASPOSE POC\Document_Comparison_by_Aspose_Words_for_NET-master\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\c-rajesh.thomas\Downloads\ASPOSE POC\Document_Comparison_by_Aspose_Words_for_NET-master\ConsoleApp\bin\Debug\Aspose.Words.dll
+C:\Users\c-rajesh.thomas\Downloads\ASPOSE POC\Document_Comparison_by_Aspose_Words_for_NET-master\ConsoleApp\bin\Debug\DocumentComparison.dll
+C:\Users\c-rajesh.thomas\Downloads\ASPOSE POC\Document_Comparison_by_Aspose_Words_for_NET-master\ConsoleApp\bin\Debug\DocumentComparison.pdb
+C:\Users\c-rajesh.thomas\Downloads\ASPOSE POC\Document_Comparison_by_Aspose_Words_for_NET-master\ConsoleApp\bin\Debug\DocumentComparison.dll.config
+C:\Users\c-rajesh.thomas\Downloads\ASPOSE POC\Document_Comparison_by_Aspose_Words_for_NET-master\ConsoleApp\bin\Debug\Aspose.Words.xml
+C:\Users\c-rajesh.thomas\Downloads\ASPOSE POC\Document_Comparison_by_Aspose_Words_for_NET-master\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\c-rajesh.thomas\Downloads\ASPOSE POC\Document_Comparison_by_Aspose_Words_for_NET-master\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\c-rajesh.thomas\Downloads\ASPOSE POC\Document_Comparison_by_Aspose_Words_for_NET-master\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\c-rajesh.thomas\Downloads\ASPOSE POC\Document_Comparison_by_Aspose_Words_for_NET-master\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\c-rajesh.thomas\Downloads\ASPOSE POC\Document_Comparison_by_Aspose_Words_for_NET-master\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\TFS\RT_AllData\POC\Doc_Compare\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\TFS\RT_AllData\POC\Doc_Compare\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\TFS\RT_AllData\POC\Doc_Compare\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\TFS\RT_AllData\POC\Doc_Compare\ConsoleApp\bin\Debug\Aspose.Words.dll
+C:\TFS\RT_AllData\POC\Doc_Compare\ConsoleApp\bin\Debug\Aspose.Words.xml
+C:\TFS\RT_AllData\POC\Doc_Compare\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\TFS\RT_AllData\POC\Doc_Compare\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\TFS\RT_AllData\POC\Doc_Compare\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\TFS\RT_AllData\POC\Doc_Compare\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\TFS\RT_AllData\POC\Doc_Compare\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\TFS\RT_AllData\POC\AsposeWord-DocumentComparison-POC\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\TFS\RT_AllData\POC\AsposeWord-DocumentComparison-POC\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\TFS\RT_AllData\POC\AsposeWord-DocumentComparison-POC\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\TFS\RT_AllData\POC\AsposeWord-DocumentComparison-POC\ConsoleApp\bin\Debug\Aspose.Words.dll
+C:\TFS\RT_AllData\POC\AsposeWord-DocumentComparison-POC\ConsoleApp\bin\Debug\Aspose.Words.xml
+C:\TFS\RT_AllData\POC\AsposeWord-DocumentComparison-POC\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\TFS\RT_AllData\POC\AsposeWord-DocumentComparison-POC\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\TFS\RT_AllData\POC\AsposeWord-DocumentComparison-POC\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\TFS\RT_AllData\POC\AsposeWord-DocumentComparison-POC\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\TFS\RT_AllData\POC\AsposeWord-DocumentComparison-POC\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\c-rajesh.thomas\Downloads\Bug-1170723\ASPOSE TICKET\AsposeWord-DocumentComparison-POC\AsposeWord-DocumentComparison-POC\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\c-rajesh.thomas\Downloads\Bug-1170723\ASPOSE TICKET\AsposeWord-DocumentComparison-POC\AsposeWord-DocumentComparison-POC\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\c-rajesh.thomas\Downloads\Bug-1170723\ASPOSE TICKET\AsposeWord-DocumentComparison-POC\AsposeWord-DocumentComparison-POC\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\c-rajesh.thomas\Downloads\Bug-1170723\ASPOSE TICKET\AsposeWord-DocumentComparison-POC\AsposeWord-DocumentComparison-POC\ConsoleApp\bin\Debug\Aspose.Words.dll
+C:\Users\c-rajesh.thomas\Downloads\Bug-1170723\ASPOSE TICKET\AsposeWord-DocumentComparison-POC\AsposeWord-DocumentComparison-POC\ConsoleApp\bin\Debug\Aspose.Words.xml
+C:\Users\c-rajesh.thomas\Downloads\Bug-1170723\ASPOSE TICKET\AsposeWord-DocumentComparison-POC\AsposeWord-DocumentComparison-POC\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\c-rajesh.thomas\Downloads\Bug-1170723\ASPOSE TICKET\AsposeWord-DocumentComparison-POC\AsposeWord-DocumentComparison-POC\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\c-rajesh.thomas\Downloads\Bug-1170723\ASPOSE TICKET\AsposeWord-DocumentComparison-POC\AsposeWord-DocumentComparison-POC\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\c-rajesh.thomas\Downloads\Bug-1170723\ASPOSE TICKET\AsposeWord-DocumentComparison-POC\AsposeWord-DocumentComparison-POC\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\c-rajesh.thomas\Downloads\Bug-1170723\ASPOSE TICKET\AsposeWord-DocumentComparison-POC\AsposeWord-DocumentComparison-POC\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\c-rajesh.thomas\Downloads\Bug-1170723\Aspose Ticket Creation With POC\Console and Web Application\AsposeWord-DocumentComparison-POC\AsposeWord-DocumentComparison-POC\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\c-rajesh.thomas\Downloads\Bug-1170723\Aspose Ticket Creation With POC\Console and Web Application\AsposeWord-DocumentComparison-POC\AsposeWord-DocumentComparison-POC\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\c-rajesh.thomas\Downloads\Bug-1170723\Aspose Ticket Creation With POC\Console and Web Application\AsposeWord-DocumentComparison-POC\AsposeWord-DocumentComparison-POC\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\c-rajesh.thomas\Downloads\Bug-1170723\Aspose Ticket Creation With POC\Console and Web Application\AsposeWord-DocumentComparison-POC\AsposeWord-DocumentComparison-POC\ConsoleApp\bin\Debug\Aspose.Words.dll
+C:\Users\c-rajesh.thomas\Downloads\Bug-1170723\Aspose Ticket Creation With POC\Console and Web Application\AsposeWord-DocumentComparison-POC\AsposeWord-DocumentComparison-POC\ConsoleApp\bin\Debug\Aspose.Words.xml
+C:\Users\c-rajesh.thomas\Downloads\Bug-1170723\Aspose Ticket Creation With POC\Console and Web Application\AsposeWord-DocumentComparison-POC\AsposeWord-DocumentComparison-POC\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\c-rajesh.thomas\Downloads\Bug-1170723\Aspose Ticket Creation With POC\Console and Web Application\AsposeWord-DocumentComparison-POC\AsposeWord-DocumentComparison-POC\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\c-rajesh.thomas\Downloads\Bug-1170723\Aspose Ticket Creation With POC\Console and Web Application\AsposeWord-DocumentComparison-POC\AsposeWord-DocumentComparison-POC\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\c-rajesh.thomas\Downloads\Bug-1170723\Aspose Ticket Creation With POC\Console and Web Application\AsposeWord-DocumentComparison-POC\AsposeWord-DocumentComparison-POC\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\c-rajesh.thomas\Downloads\Bug-1170723\Aspose Ticket Creation With POC\Console and Web Application\AsposeWord-DocumentComparison-POC\AsposeWord-DocumentComparison-POC\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\TFS\RT_AllData\POC\Aspose Ticket Creation With POC\Console and Web Application\AsposeWord-DocumentComparison-POC\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\TFS\RT_AllData\POC\Aspose Ticket Creation With POC\Console and Web Application\AsposeWord-DocumentComparison-POC\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\TFS\RT_AllData\POC\Aspose Ticket Creation With POC\Console and Web Application\AsposeWord-DocumentComparison-POC\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\TFS\RT_AllData\POC\Aspose Ticket Creation With POC\Console and Web Application\AsposeWord-DocumentComparison-POC\ConsoleApp\bin\Debug\Aspose.Words.dll
+C:\TFS\RT_AllData\POC\Aspose Ticket Creation With POC\Console and Web Application\AsposeWord-DocumentComparison-POC\ConsoleApp\bin\Debug\Aspose.Words.xml
+C:\TFS\RT_AllData\POC\Aspose Ticket Creation With POC\Console and Web Application\AsposeWord-DocumentComparison-POC\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\TFS\RT_AllData\POC\Aspose Ticket Creation With POC\Console and Web Application\AsposeWord-DocumentComparison-POC\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\TFS\RT_AllData\POC\Aspose Ticket Creation With POC\Console and Web Application\AsposeWord-DocumentComparison-POC\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\TFS\RT_AllData\POC\Aspose Ticket Creation With POC\Console and Web Application\AsposeWord-DocumentComparison-POC\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\TFS\RT_AllData\POC\Aspose Ticket Creation With POC\Console and Web Application\AsposeWord-DocumentComparison-POC\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\TFS\POC\Aspose Ticket Creation With POC\Console and Web Application\AsposeWord-DocumentComparison-POC\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\TFS\POC\Aspose Ticket Creation With POC\Console and Web Application\AsposeWord-DocumentComparison-POC\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\TFS\POC\Aspose Ticket Creation With POC\Console and Web Application\AsposeWord-DocumentComparison-POC\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\TFS\POC\Aspose Ticket Creation With POC\Console and Web Application\AsposeWord-DocumentComparison-POC\ConsoleApp\bin\Debug\Aspose.Words.dll
+C:\TFS\POC\Aspose Ticket Creation With POC\Console and Web Application\AsposeWord-DocumentComparison-POC\ConsoleApp\bin\Debug\Aspose.Words.xml
+C:\TFS\POC\Aspose Ticket Creation With POC\Console and Web Application\AsposeWord-DocumentComparison-POC\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\TFS\POC\Aspose Ticket Creation With POC\Console and Web Application\AsposeWord-DocumentComparison-POC\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\TFS\POC\Aspose Ticket Creation With POC\Console and Web Application\AsposeWord-DocumentComparison-POC\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\TFS\POC\Aspose Ticket Creation With POC\Console and Web Application\AsposeWord-DocumentComparison-POC\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\TFS\POC\Aspose Ticket Creation With POC\Console and Web Application\AsposeWord-DocumentComparison-POC\ConsoleApp\obj\Debug\ConsoleApp.pdb
